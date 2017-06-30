@@ -1,4 +1,5 @@
 # dotfiles
+
 My dotfiles.
 
 This may stay pretty minimal. One of the side effects of years of doing DevOps is that you have dramatically lowered expectations for how customized your environments are. Keep those expectations low!
@@ -12,3 +13,9 @@ Tools I use that might get configured a bit here:
 * youtube-dl
 * mplayer
 * bash
+
+Inspirations:
+
+* [paulirish](https://github.com/paulirish/dotfiles)
+* [jessfraz](https://github.com/jessfraz/dotfiles): [Setup](https://usesthis.com/interviews/jessie.frazelle/)
+
